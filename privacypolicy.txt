@@ -1,0 +1,7 @@
+このアプリケーションは、いかなる個人情報も収集しません。
+アプリケーション単体で完結し、外部の通信はしません。
+（このテキストの読み込みにインターネットを使います）
+
+This application does not collect any personal information.
+It is complete with this application only and does not communicate anywhere outside.
+( Use the internet to read this text )
